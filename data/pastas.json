@@ -1,0 +1,1297 @@
+{
+  "pastas": [
+    {
+      "Type": "Barbine",
+      "Description": "Thin strands, often coiled into nests",
+      "Translation": "Little beards",
+      "Synonyms": "Barbina",
+      "Origin": ""
+    },
+    {
+      "Type": "Bavette",
+      "Description": "Narrower version of tagliatelle",
+      "Translation": "Bibs",
+      "Synonyms": "Baverine, bavettine, lasagneddi (in Sicily)",
+      "Origin": "Liguria"
+    },
+    {
+      "Type": "Bigoli",
+      "Description": "Thick, softer, spaghetti-like pasta. Made with whole wheat rather than durum. Sometimes made with duck egg.",
+      "Translation": "From bigolaro, the pasta press used to make bigoli",
+      "Synonyms": "Fusarioi",
+      "Origin": "Veneto"
+    },
+    {
+      "Type": "Bucatini",
+      "Description": "Thick spaghetti-like pasta with a hole running through the center",
+      "Translation": "Hollow straws Translated from Italian: buco, meaning \"hole\", and Italian: bucato, meaning \"pierced\".",
+      "Synonyms": "Boccolotti, perciatellini, foratini, fidelini bucati, fide bucate, agoni bucati, spilloni bucati",
+      "Origin": "Lazio"
+    },
+    {
+      "Type": "Busiate",
+      "Description": "Type of long macaroni. Often coiled around a twig of local weed.",
+      "Translation": "From busa, meaning \"reed\".",
+      "Synonyms": "Busiati, Subioti, fusarioi, maccheroni bobbesi, busa, ciuffolitti (Abruzzo), gnocchi del ferro",
+      "Origin": "Sicily (particularly Trapani) Sardinia"
+    },
+    {
+      "Type": "Capellini",
+      "Description": "Very thin spaghetti, often coiled into nests. Capelli d'angelo are slightly thinner.",
+      "Translation": "Thin hair, little hair",
+      "Synonyms": "Angel Hair, Capelli d'angelo, cabellos de angel, capelvenere, fidelini, fedelini, cappellini, sopracappellini, capellini fini, bassetti, tagliolini a nido, barbine a nido, ramicia, vrimiciddi",
+      "Origin": "Liguria"
+    },
+    {
+      "Type": "Fedelini",
+      "Description": "Very thin spaghetti",
+      "Translation": "Little faithful ones",
+      "Synonyms": "",
+      "Origin": "Naples, Genoa and Liguria"
+    },
+    {
+      "Type": "Ferrazzuoli",
+      "Description": "Similar to a twisted buccato with a cleft running on the side",
+      "Translation": "Possibly from the thin iron square used to create the cleft.",
+      "Synonyms": "Cannucce",
+      "Origin": "Calabria"
+    },
+    {
+      "Type": "Fettuccine",
+      "Description": "Ribbon of pasta approximately 6.5 millimeters wide. Larger and thicker than tagliatelle",
+      "Translation": "Little ribbons: from affettare, \"to slice\".",
+      "Synonyms": "Lasagnette, fettucce, ramicce, sagne",
+      "Origin": "Rome"
+    },
+    {
+      "Type": "Fileja",
+      "Description": "Elongated screw.",
+      "Translation": "Dialectal for yarn, filato",
+      "Synonyms": "filleda, filateddhi, filatelli, fusilli avellinesi, maccaruni aru ferru, ricci di donna",
+      "Origin": "Vibo Valentia (Calabria), Avellino (Campania)"
+    },
+    {
+      "Type": "Linguine",
+      "Description": "Flattened spaghetti",
+      "Translation": "Little tongues",
+      "Synonyms": "Bavettine, bavette fini, radichini, linguettine",
+      "Origin": ""
+    },
+    {
+      "Type": "Lagane",
+      "Description": "Wide pasta",
+      "Translation": "",
+      "Synonyms": "Lasagnoni, Bardele",
+      "Origin": ""
+    },
+    {
+      "Type": "Lasagna",
+      "Description": "Square or rectangle sheets of pasta that sometimes have fluted edges (lasagne ricce). The square of pasta is lasagna while the dish is lasagne",
+      "Translation": "Possibly from Latin lasanum or Greek lasonon, \"Cooking pot\", or the Greco-Roman laganum, a flat piece of bread.",
+      "Synonyms": "bardele, lasagnoni (Veneto); capellasci (Liguria); sagne (Salento); lagana (Apulia); the fluted version can also be doppio festone, sciabo, sciablo",
+      "Origin": ""
+    },
+    {
+      "Type": "Lasagnette",
+      "Description": "Narrower version of Lasagna",
+      "Translation": "Little lasagna",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Lasagnotte",
+      "Description": "Longer version of Lasagna",
+      "Translation": "Bigger lasagna",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Maccheroni alla molinara",
+      "Description": "Very thick, long, hand-pulled pasta.",
+      "Translation": "The miller’s wife’s pasta",
+      "Synonyms": "",
+      "Origin": "Abruzzo"
+    },
+    {
+      "Type": "Maccheroncini di Campofilone",
+      "Description": "Thin strands of egg-based pasta. Similar to Capelli d'angelo.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": "Marche"
+    },
+    {
+      "Type": "Mafalde",
+      "Description": "Long rectangular ribbons with ruffled sides.",
+      "Translation": "Named in honor of Princess Mafalda of Savoy",
+      "Synonyms": "Reginette, frese, tagliatelle nervate, signorine, trinette, ricciarelle, sfresatine, nastri, nastrini",
+      "Origin": "Naples"
+    },
+    {
+      "Type": "Matriciani",
+      "Description": "Similar to perciatelli, but folded over rather than hollowed out",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Pappardelle",
+      "Description": "Thick flat ribbons of egg-based dough",
+      "Translation": "From Tuscan papparsi, \"to pig out\".",
+      "Synonyms": "Papparelle, paparele (Veneto); paspardelle (Marche)",
+      "Origin": "Tuscany and northern Italy"
+    },
+    {
+      "Type": "Perciatelli",
+      "Description": "\"Virtually identical to bucatini\"",
+      "Translation": "From perciare, \"to hollow\"",
+      "Synonyms": "Maccheroncelli, Maccheronicini, Mezzanelli, Long Macaroni",
+      "Origin": "Campania"
+    },
+    {
+      "Type": "Picagge",
+      "Description": "Flat strands about 1.5cm wide. Thinner sheet than lasagna. Can be white or green.",
+      "Translation": "In Savonese dialect the name refers to the ribbons used as ornaments by dressmakers. In Genovese dialect however the word means napkin and refers to the size and shape of the pasta.",
+      "Synonyms": "Picaje or piccagge",
+      "Origin": "Liguria, in particular the province of Savona"
+    },
+    {
+      "Type": "Pici",
+      "Description": "Very thick, irregular and long, hand-rolled pasta.",
+      "Translation": "From appiciare, \"to stick\".",
+      "Synonyms": "Lunghetti (Montalcino); pinci (Montepulciano); umbrici/ciriole (Umbria)",
+      "Origin": "Tuscany"
+    },
+    {
+      "Type": "Pillus",
+      "Description": "Very thin ribbons cooked in beef broth",
+      "Translation": "",
+      "Synonyms": "Lisanzedas, a variation; large discs in lasagne-like layers",
+      "Origin": "Sardinia"
+    },
+    {
+      "Type": "Rustiche",
+      "Description": "Serrated ribbons",
+      "Translation": "literally the feminine plural of rustico, meaning 'rustic'",
+      "Synonyms": "",
+      "Origin": "Apulia"
+    },
+    {
+      "Type": "Sagne 'ncannulate",
+      "Description": "Long tube formed of twisted ribbon",
+      "Translation": "Caned lasagne",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Scialatelli",
+      "Description": "Short, flat ribbons",
+      "Translation": "",
+      "Synonyms": "scialatielli",
+      "Origin": "Sorrento"
+    },
+    {
+      "Type": "Spaghetti",
+      "Description": "A long, thin, cylindrical pasta of Italian origin, made of semolina or flour and water. Spaghettini and spaghettoni are slightly thinner or thicker, respectively.",
+      "Translation": "\"Little strings\". Spaghetti is the plural form of the Italian word spaghetto, which is a diminutive of spago, meaning \"thin string\" or \"twine\".",
+      "Synonyms": "Fide/fidi, fidelini, ristoranti, vermicelloni, filatelli, vermicelloni giganti",
+      "Origin": "Sicily"
+    },
+    {
+      "Type": "Spaghetti alla chitarra",
+      "Description": "Square spaghetti, made of egg and flour",
+      "Translation": "Named after the guitar-like device used to cut the pasta, which has a wooden frame strung with metal wires, sheets of pasta are pressed down onto the device, and then the wires are \"strummed\" so the slivers of pasta fall through.",
+      "Synonyms": "Tonnarelli, maccheroni alla chitarra",
+      "Origin": "Abruzzo"
+    },
+    {
+      "Type": "Spaghettini",
+      "Description": "A slightly thinner version of spaghetti",
+      "Translation": "Thin spaghetti",
+      "Synonyms": "Thin spaghetti",
+      "Origin": ""
+    },
+    {
+      "Type": "Spaghettoni",
+      "Description": "A slightly thicker version of spaghetti",
+      "Translation": "",
+      "Synonyms": "Spaghetti spessi",
+      "Origin": ""
+    },
+    {
+      "Type": "Stringozzi",
+      "Description": "Similar to shoelaces",
+      "Translation": "Shoestring-like, shoelaces",
+      "Synonyms": "Strozzapreti, long, round, thick; lit. 'priest stranglers' (Romagna)",
+      "Origin": ""
+    },
+    {
+      "Type": "Su Filindeu",
+      "Description": "Extremely rare pasta, made of thinly pulled and folded dough which is laid in the sun to dry.",
+      "Translation": "The threads (or wool) of God",
+      "Synonyms": "",
+      "Origin": "Sardinia"
+    },
+    {
+      "Type": "Tagliatelle",
+      "Description": "Ribbons of egg-based pasta. Generally narrower than fettuccine.",
+      "Translation": "From the Italian tagliare, meaning \"to cut\".",
+      "Synonyms": "Tagliarelli, reginelle, fresine, nastri, fettuccelle, fettucce romane, fiadi, tagliolini; tagliatelle smalzade (Trentino); lesagnetes (Veneto); bardele (Lombardia); fettuccine (Lazio); pincinelle (Colonna); tagghiarini (Sicily); taddarini (Sardinia)",
+      "Origin": "Emilia-Romagna (part. Bologna)"
+    },
+    {
+      "Type": "Taglierini",
+      "Description": "Thinner version of tagliatelle",
+      "Translation": "From the Italian tagliare, meaning \"to cut\".",
+      "Synonyms": "Tagliolini; tagliatini (Tuscany); tajarin (Piedmont)",
+      "Origin": "Liguria, Piedmont"
+    },
+    {
+      "Type": "Trenette",
+      "Description": "Thin ribbon ridged on one side. Slightly thicker than linguine.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Tripoline",
+      "Description": "Thick ribbon ridged on one side",
+      "Translation": "",
+      "Synonyms": "Signorine",
+      "Origin": ""
+    },
+    {
+      "Type": "Vermicelli",
+      "Description": "A traditional pasta round that is thinner than spaghetti.",
+      "Translation": "Little worms",
+      "Synonyms": "Very thin spaghetti",
+      "Origin": "Campania"
+    },
+    {
+      "Type": "Ziti",
+      "Description": "Long, narrow hose-like tubes larger than mezzani (also called mezzi ziti) or bucatini that are traditionally broken before being put to cook. The addition of the word rigati (e.g. ziti rigati) denotes lines or ridges on the pasta's surface. Ziti candelati are longer, zitoni a bit larger.",
+      "Translation": "Bride and bridegroom (ziti is plural) in Sicilian dialect.",
+      "Synonyms": "Boccolotti, zitoni, zituane, candele, ziti candelati",
+      "Origin": "Sicily, Southern Italy"
+    },
+    {
+      "Image": "Image",
+      "Type": "Type",
+      "Description": "Description",
+      "Translation": "Translation",
+      "Synonyms": "Synonyms",
+      "Origin": "Origin"
+    },
+    {
+      "Type": "Anelli",
+      "Description": "Short tubular, or annular-shaped, pasta sometimes with ridges on the inside or outside.",
+      "Translation": "Small rings",
+      "Synonyms": "Anelloni, anellini, anelletti, anelloni d'Africa (large rings)",
+      "Origin": "Sicily"
+    },
+    {
+      "Type": "Boccoli",
+      "Description": "Short, thick twisted shape.",
+      "Translation": "Ringlets",
+      "Synonyms": "",
+      "Origin": "Sardinia"
+    },
+    {
+      "Type": "Calamarata",
+      "Description": "Wide ring-shaped pasta",
+      "Translation": "Squid-like",
+      "Synonyms": "Calamari",
+      "Origin": "Naples"
+    },
+    {
+      "Type": "Campanelle or torchio",
+      "Description": "Flattened bell-shaped pasta with a frilly edge on one end. Torchio are identical but with a smooth edge.",
+      "Translation": "Bellflower, gigli are lilies, torchio is a press (usually for olive or grapes, but also pasta).",
+      "Synonyms": "Gigli, cornetti, corni di bue",
+      "Origin": ""
+    },
+    {
+      "Type": "Cappelli da chef",
+      "Description": "Extruded pasta that looks like a chef's hat",
+      "Translation": "Chef hats",
+      "Synonyms": "Chef's hats",
+      "Origin": ""
+    },
+    {
+      "Type": "Casarecce",
+      "Description": "Short lengths extruded into a S shape.",
+      "Translation": "From casereccio, \"homemade\".",
+      "Synonyms": "Casarecci, Cesariccia",
+      "Origin": "Sicily, Campania"
+    },
+    {
+      "Type": "Cascatelli",
+      "Description": "Designed by Dan Pashman in 2021 – thick, half-tubed pasta with ruffled sides",
+      "Translation": "From cascatelle, \"little waterfalls\"",
+      "Synonyms": "",
+      "Origin": "United States"
+    },
+    {
+      "Type": "Castellane",
+      "Description": "Shell pasta coiled into a conical shape",
+      "Translation": "Translated as \"castle dweller\", for the shape of the pasta loosely resembles that of a long, flowing robe.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Cavatappi",
+      "Description": "Corkscrew-shaped macaroni.",
+      "Translation": "Corkscrews",
+      "Synonyms": "Cellentani, amori, spirali, tortiglioni, or fusilli rigati.",
+      "Origin": ""
+    },
+    {
+      "Type": "Cavatelli",
+      "Description": "Short, solid lengths. Exist in three sizes, usually measured in fingers (one, two or three)",
+      "Translation": "From the verb cavare, \"hollow\".",
+      "Synonyms": "Cortecce, gnocchetti, manatelli, orecchie di prete, strascinati, truoccoli; capunti, cingule, minuich, rascatelli, zinnezinne (Basilicata); cantaroggini, cavatieddi, cecatelli/cicatelli, cecatidde, mignuicchi, strascenate, tagghjunghele (Apulia and Campania); pincinelle (Marche); cavatielle, 'ncatenate, cazzarille, ciufele (Molise); cavasuneddi, cavatuneddi, gnucchitti, gnocculi (Sicily), pizzicarieddi (Apulia). Pictured is dry capunti, a variety of cavatelli from Apulia.",
+      "Origin": "Southern continental Italy (i.e. Campania, Apulia, Molise, Basilicata, Calabria) and Sicily"
+    },
+    {
+      "Type": "Chifferi",
+      "Description": "Short and wide macaroni. Can be smooth (lisce) or furrowed (rigati).",
+      "Translation": "From the Austrian cookies Kipferl.",
+      "Synonyms": "Gomiti",
+      "Origin": ""
+    },
+    {
+      "Type": "Cicioneddos",
+      "Description": "Hand-rolled, shell-shaped pasta that are smaller than malloreddus.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": "Sardinia"
+    },
+    {
+      "Type": "Conchiglie",
+      "Description": "Seashell-shaped, usually furrowed (rigate)",
+      "Translation": "Shells",
+      "Synonyms": "Arselle, abissini, coccioline, conchigliette, tofettine, cinesini, margaritine, cinesi rigati, mezzi cocci, margherite rigate, cappettine",
+      "Origin": ""
+    },
+    {
+      "Type": "Creste di galli",
+      "Description": "Short, curved, and ruffled",
+      "Translation": "Cock's comb",
+      "Synonyms": "Grui",
+      "Origin": ""
+    },
+    {
+      "Type": "Fagioloni",
+      "Description": "Short narrow tube",
+      "Translation": "Large beans",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Farfalle",
+      "Description": "Bow tie- or butterfly-shaped",
+      "Translation": "Butterflies",
+      "Synonyms": "fiochetti, fiocconi, farfalloni, galla genovese, strichetti (Modena), nocchette (Apulia and Abruzzo)",
+      "Origin": "Northern Italy"
+    },
+    {
+      "Type": "Fazzoletti",
+      "Description": "Thin rectangles or squares of pasta",
+      "Translation": "Handkerchief",
+      "Synonyms": "Fazzoletti di seta, mandilli di sea (Ligurian dialect)",
+      "Origin": "Liguria"
+    },
+    {
+      "Type": "Festoni",
+      "Description": "Thick ruffled helices",
+      "Translation": "Festoon",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Fiorentine",
+      "Description": "Grooved cut tubes",
+      "Translation": "Florentine",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Fiori",
+      "Description": "Shaped like a flower",
+      "Translation": "Flowers",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Fusilli",
+      "Description": "Long, thick, corkscrew-shaped pasta that may be solid or hollow.",
+      "Translation": "The word fusilli presumably comes from Italian: fuso, meaning \"spindle\".",
+      "Synonyms": "Eliche, girandole, rotini, tortiglioni, spirali",
+      "Origin": ""
+    },
+    {
+      "Type": "Fusilli bucati",
+      "Description": "A hollow version of fusilli. Note: different shapes can be attached to this name. Can be long, short or twined (lunghi, corti or gemellati).",
+      "Translation": "Holed spindles",
+      "Synonyms": "Busiata, maccaruna di casa, pirciati, filati cu lu pirtuso, fusilli col buco.",
+      "Origin": "Sicily"
+    },
+    {
+      "Type": "Garganelli",
+      "Description": "Egg pasta in a square shape rolled into a tube",
+      "Translation": "From garganel, \"oesophagus\"",
+      "Synonyms": "Maccheroni al petine (Marche), fischioni",
+      "Origin": "Emilia-Romagna"
+    },
+    {
+      "Type": "Gemelli",
+      "Description": "A single S-shaped strand of pasta twisted in a loose spiral.",
+      "Translation": "The name derives from the Italian for twins.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Gnocchi",
+      "Description": "Lobed shells. Not to be confused with gnocchi dumplings.",
+      "Translation": "Possibly \"knots\"",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Gomiti",
+      "Description": "Elbow maccheroni, furrowed.",
+      "Translation": "From gomito, \"elbow\".",
+      "Synonyms": "Chifferi",
+      "Origin": ""
+    },
+    {
+      "Type": "Lanterne",
+      "Description": "Curved ridges",
+      "Translation": "Lanterns",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Lorighittas",
+      "Description": "Strands of pasta rolled twice around three fingers to form a ring, and then twisted to look like a rope.",
+      "Translation": "Small rings",
+      "Synonyms": "",
+      "Origin": "Morgongiori, Sardinia"
+    },
+    {
+      "Type": "Macaroni",
+      "Description": "Tubes, either bent or straight",
+      "Translation": "From Greek for food made from barley",
+      "Synonyms": "Macaroni (outside of Italy), maccheroncini",
+      "Origin": "Naples"
+    },
+    {
+      "Type": "Maccheroncelli",
+      "Description": "Hollow tube-shaped pasta that is slightly smaller than a pencil in thickness",
+      "Translation": "Small maccheroni",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Mafaldine",
+      "Description": "Short ribbons with ruffled sides",
+      "Translation": "Little mafalde",
+      "Synonyms": "Mafalda corta, Biricci",
+      "Origin": ""
+    },
+    {
+      "Type": "Maltagliati",
+      "Description": "Irregular shapes of flat pasta formed from scraps of pasta production.",
+      "Translation": "Badly cut",
+      "Synonyms": "Strengozze, malmaritati, blecs; pizzocherini (Valtellina); straciamus/spruzzamusi (Mantua); gasse, martaliai (Liguria); begnamusi/sguazzabarbuz (Emilia-Romagna); strengozze (Marche); sagne 'mpezze (Latium); pizzelle (Apulia); foglie di salice (Piedmont)",
+      "Origin": ""
+    },
+    {
+      "Type": "Malloreddus",
+      "Description": "Hand-rolled, shell-shaped pasta with saffron. A machine-extruded version also exists, which typically omits the use of saffron.",
+      "Translation": "In Campidanese dialect a malloreddu is a male cow (plur. malloreddus)",
+      "Synonyms": "Gnocchetti sardi, caidos, macarones cravaos, maccaronis de orgiu",
+      "Origin": "Sardinia"
+    },
+    {
+      "Type": "Mandala",
+      "Description": "Designed by Philippe Starck in 1987 for French pasta maker Panzani, intended to compensate for overcooking.",
+      "Translation": "A reference to mandalas.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Marille",
+      "Description": "Designed by Giorgetto Giugiaro in 1983 – like a rolling ocean wave in cross-section with internal rugosities, but unsuccessful and no longer produced.",
+      "Translation": "From mare, \"sea\"",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Mezzani",
+      "Description": "Short curved tube",
+      "Translation": "Half-size ones",
+      "Synonyms": "Perciatelloni, Mezze Zite, Regine, Scaloppi, Napoletani, Hoernli (wide-spread in Switzerland, in at least 3 sizes)",
+      "Origin": ""
+    },
+    {
+      "Type": "Mezze maniche",
+      "Description": "About half the length of rigatoni",
+      "Translation": "Half-sleeves",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Mezze penne",
+      "Description": "Short version of penne",
+      "Translation": "Half-pens",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Mezzi bombardoni",
+      "Description": "Wide short tubes",
+      "Translation": "Half-bombards",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Nuvole",
+      "Description": "Short coiled pasta",
+      "Translation": "Clouds",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Paccheri",
+      "Description": "Large tube pasta often topped with sauce or stuffed with ingredients. May collapse under own weight when cooking.",
+      "Translation": "from Napolitan paccharia, \"Slaps\" with a depreciative -ero to indicate something common. The name has been ascribed to a slapping sound they may make when eaten.",
+      "Synonyms": "Maniche di frate, maniche rigate, rigatoni, rigatoncini, bombaroni, tufoli rigati. Moccolotti in Marche and Umbria.",
+      "Origin": "Naples"
+    },
+    {
+      "Type": "Passatelli",
+      "Description": "Made from bread crumbs, eggs, grated Parmesan cheese, lemon, and nutmeg, and cooked in chicken broth.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": "Pesaro e Urbino (northern Marche) and other regions of northern Italy such as Emilia Romagna"
+    },
+    {
+      "Type": "Pasta al ceppo",
+      "Description": "Sheet pasta that is similar in shape to a cinnamon stick",
+      "Translation": "Log-type pasta",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Penne",
+      "Description": "Medium length tubes with ridges, cut diagonally at both ends. They can be either lisce (smooth) or rigate (grooved). Mostaccioli is also sometimes used for Barilla products, pennette have a shorter length and pennoni are wider and thicker.",
+      "Translation": "Pens (after a quill pen) or feathers.",
+      "Synonyms": "Pennine, mezze pennette lisce, mezze penne, mezzani, pennettine, pennuzze, penne regina, mostaccioli, penne a candela, penne di natale/natalini, penne di ziti/zitoni.",
+      "Origin": "Liguria"
+    },
+    {
+      "Type": "Penne ricce",
+      "Description": "Curled penne variant, usually grooved.",
+      "Translation": "Curly penne.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Picchiarelli",
+      "Description": "Slightly longer than cavatelli.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": "Apulia"
+    },
+    {
+      "Type": "Pipe rigate",
+      "Description": "Very similar to Lumaconi but smaller has lines running the length of it",
+      "Translation": "Grooved pipes.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Pizzoccheri",
+      "Description": "A type of short tagliatelle, a flat ribbon pasta, made with buckwheat flour: the lack of gluten makes them hard to manipulate.",
+      "Translation": "From pinzochero, \"bigot\".",
+      "Synonyms": "Fugascion, pizzocher di Tei",
+      "Origin": "Valtellina (Lombardy)"
+    },
+    {
+      "Type": "Quadrefiore",
+      "Description": "Square with rippled edges",
+      "Translation": "From quadro, \"square\" and fiore, \"flower\"",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Radiatori",
+      "Description": "Shaped like radiators, they were created between the First and Second World Wars. They are often used in similar dishes as rotelle or fusilli because their shape works well with thicker sauces.",
+      "Translation": "Radiator",
+      "Synonyms": "Marziani",
+      "Origin": ""
+    },
+    {
+      "Type": "Riccioli",
+      "Description": "Hollow cut with cylindrical ridges.",
+      "Translation": "Curls.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Ricciolini",
+      "Description": "Short wide pasta with a 90-degree twist",
+      "Translation": "Little curls",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Ricciutelle",
+      "Description": "Short spiralled pasta",
+      "Translation": "Little curls",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Rigatoncini",
+      "Description": "Smaller version of rigatoni",
+      "Translation": "Small lined ones",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Rigatoni",
+      "Description": "Medium-Large tube with square-cut ends, sometimes slightly curved. Always grooved, and straight or bent depending on extrusion method.",
+      "Translation": "From rigare, \"to line, furrow, groove\".",
+      "Synonyms": "Bombardoni, cannaroni rigati, cannerozzi rigati, rigatoni romani, trivelli, tuffolini rigati",
+      "Origin": "Lazio"
+    },
+    {
+      "Type": "Rombi",
+      "Description": "Rhombus-shaped ribbons",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Rotelle",
+      "Description": "Wagon wheel-shaped pasta",
+      "Translation": "Little wheels.",
+      "Synonyms": "Biciclette, ruotine, ruote, rotelline, ruotelline, rotine, rotini",
+      "Origin": ""
+    },
+    {
+      "Type": "Sagnette",
+      "Description": "Short thick ribbons from Abruzzo and Molise. Also called sagne or tagliolini.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Sagnarelli",
+      "Description": "Rectangular ribbons with fluted edges",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Sedani",
+      "Description": "Slightly larger than macaroni with a similar slight bend. Can be smooth (lisce) or furrowed (rigati).",
+      "Translation": "From sedano, \"celery\"",
+      "Synonyms": "Sedanini, cornetti, diavoletti, diavolini, folletti; or zanne d'elefante if smooth.",
+      "Origin": "Naples"
+    },
+    {
+      "Type": "Spirali",
+      "Description": "Spiraled tubes",
+      "Translation": "Spirals",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Spiralini (Scharfalini)",
+      "Description": "Tightly coiled spirali",
+      "Translation": "Little spirals",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Strapponi",
+      "Description": "Strips of pasta ripped from a sheet.",
+      "Translation": "From strappare, \"to rip off\"",
+      "Synonyms": "",
+      "Origin": "Tuscany"
+    },
+    {
+      "Type": "Strozzapreti",
+      "Description": "Rolled across their width. Similar to Sicilian casarecce.",
+      "Translation": "Priest-chokers or priest-stranglers",
+      "Synonyms": "Strangolarpreti, gnocchi di prete (Friuli); frigulelli, piccicasanti, strozzafrati (Marche), cecamariti (Lazio); maccheroni alla molinara (Abruzzo); strangulaprievete (Naples); strangulaprieviti (Calabria); affogaparini (Sicily)",
+      "Origin": "Tuscany, Emilia-Romagna"
+    },
+    {
+      "Type": "Testaroli",
+      "Description": "",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": "Tuscany"
+    },
+    {
+      "Type": "Tortiglioni",
+      "Description": "Larger tubes than rigatoni, the grooves are also deeper and spiral around the pasta.",
+      "Translation": "From Latin torquere, \"to twist\"",
+      "Synonyms": "Elicoidali",
+      "Origin": "Campania, Lazio"
+    },
+    {
+      "Type": "Treccioni",
+      "Description": "Coiled pasta.",
+      "Translation": "From treccia, \"braid\".",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Trenne",
+      "Description": "Penne shaped as a triangle",
+      "Translation": "",
+      "Synonyms": "Triangoli, penne triangolo",
+      "Origin": ""
+    },
+    {
+      "Type": "Trofie",
+      "Description": "Thin twisted pasta made of durum wheat and water. Trofie bastarde are made with chestnut flour.",
+      "Translation": "possibly from Greek trophe, \"food\" or local Genovese dialect strofissià or strufuggiâ, \"to rub\".",
+      "Synonyms": "Rechelline, trofiette.",
+      "Origin": "Liguria"
+    },
+    {
+      "Type": "Trottole",
+      "Description": "Pasta in the shape of spinning tops",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Tuffoli",
+      "Description": "Ridged rigatoni",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Vesuvio",
+      "Description": "Corkscrew-shaped pasta.",
+      "Translation": "From Mount Vesuvius",
+      "Synonyms": "",
+      "Origin": "Campania"
+    },
+    {
+      "Image": "Image",
+      "Type": "Type",
+      "Description": "Description",
+      "Translation": "Translation",
+      "Synonyms": "Synonyms",
+      "Origin": "Origin"
+    },
+    {
+      "Type": "Cencioni",
+      "Description": "Petal shaped, slightly curved with rough convex side",
+      "Translation": "Little rags",
+      "Synonyms": "Mischiglio (Basilicata)",
+      "Origin": "Southern Italy"
+    },
+    {
+      "Type": "Corzetti",
+      "Description": "Flat figure-eight stamped from Liguria",
+      "Translation": "The name derives from a 14th century Genovese coin, the corzetto.",
+      "Synonyms": "Curzetti (Genoa); crosets (Piedmont); crosetti (Emilia-Romagna); croxetti, torsellini",
+      "Origin": "Val Polcevera"
+    },
+    {
+      "Type": "Fainelle",
+      "Description": "Flat strascinato that vaguely resembles carob.",
+      "Translation": "Fainella means carob in Pugliese dialect.",
+      "Synonyms": "",
+      "Origin": "Foggia (Apulia)"
+    },
+    {
+      "Type": "Foglie d'ulivo",
+      "Description": "Shaped like an olive leaf",
+      "Translation": "Olive leaves",
+      "Synonyms": "",
+      "Origin": "Southern Apulia"
+    },
+    {
+      "Type": "Orecchiette",
+      "Description": "Irregular disc with a central dome and a slightly thicker crown. Strascinate are identical but flat.",
+      "Translation": "Little ears",
+      "Synonyms": "strascinate; recchini (Rome); recchietele (Campania, Molise and Basilicata); orecchie di prete (Abruzzo and Basilicata); cicatelli (Apulia); recchie di prevete (Foggia); cagghiubbi/fenescecchie (Bari); chancierelle/pochiacche (small/big versions; Taranto); stacchiodde (Lecce)",
+      "Origin": "Apulia"
+    },
+    {
+      "Image": "Image",
+      "Type": "Type",
+      "Description": "Description",
+      "Translation": "Translation",
+      "Synonyms": "Synonyms",
+      "Origin": "Origin"
+    },
+    {
+      "Type": "Acini di pepe",
+      "Description": "Bead-like pasta",
+      "Translation": "Grains of pepper",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Alphabet pasta",
+      "Description": "Pasta that has been mechanically cut or pressed into the letters of the alphabet",
+      "Translation": "",
+      "Synonyms": "Alfabeto",
+      "Origin": ""
+    },
+    {
+      "Type": "Anchellini",
+      "Description": "Small beads",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Anelli",
+      "Description": "Small rings of pasta (not to be confused with Calamaretti)",
+      "Translation": "Small rings",
+      "Synonyms": "Aneletti, anidduzzi, cerchionetti, taraduzzi",
+      "Origin": "Sicily"
+    },
+    {
+      "Type": "Anellini",
+      "Description": "Smaller version of anelli",
+      "Translation": "Little rings",
+      "Synonyms": "Anelline",
+      "Origin": ""
+    },
+    {
+      "Type": "Armonie",
+      "Description": "Small \"squiggles\"",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Conchigliette",
+      "Description": "Small shell-shaped pasta",
+      "Translation": "Little shells",
+      "Synonyms": "Cocciolette",
+      "Origin": ""
+    },
+    {
+      "Type": "Coquillettes",
+      "Description": "Semicircular",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Coralli",
+      "Description": "Ridged tubes",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Corallini",
+      "Description": "Small short tubes of pasta",
+      "Translation": "Little corals",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Cuscussu",
+      "Description": "Minuscule dots reminding of couscous",
+      "Translation": "",
+      "Synonyms": "Scucuzzu. Kusksu in Malta",
+      "Origin": "Liguria, but found throughout Italy and in Malta."
+    },
+    {
+      "Type": "Ditali",
+      "Description": "Short tubes whose diameter is roughly the same as their length. Can be lisci or rigati",
+      "Translation": "Thimbles",
+      "Synonyms": "Ditalini, tubetti, tubettini, gnocchetti di ziti, ditaletti, coralli; denti di vecchia, denti di cavallo, ganghi di vecchia, magghietti (Apulia and Sicily)",
+      "Origin": "Campania, Apulia"
+    },
+    {
+      "Type": "Egg barley",
+      "Description": "",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Farfalline",
+      "Description": "Small bow tie-shaped pasta",
+      "Translation": "Little butterflies (\"bow tie\" in Italian is cravatta a farfalla, \"butterfly tie\")",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Fideos",
+      "Description": "Pasta prepared with eggs, flour and water.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Filini",
+      "Description": "Smaller version of fideos, about 12–15 mm long before cooking",
+      "Translation": "Little threads.",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Fregula",
+      "Description": "Bead-like pasta from Sardinia. Slightly toasted due to drying process.",
+      "Translation": "Little fragments",
+      "Synonyms": "Fregola, freula, fregua",
+      "Origin": ""
+    },
+    {
+      "Type": "Funghini",
+      "Description": "Small mushroom-shaped pasta",
+      "Translation": "Little mushrooms",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Gianduietta",
+      "Description": "Farm animals",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Grano",
+      "Description": "Grain-shaped",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Gramigna",
+      "Description": "Short curled lengths of pasta. Spaccatelle are larger.",
+      "Translation": "From gramigna, \"weed\" or spaccatura, \"slot\"",
+      "Synonyms": "Crestine, margherite lisce, fagioletti, zitellini, tubettini lunghi, gramignoni, spaccatelle",
+      "Origin": "Sicily, Emilia-Romagna, Marche, Friuli-Venezia Giulia"
+    },
+    {
+      "Type": "Grattini",
+      "Description": "Small granular, irregular shaped pasta (smaller version then Grattoni)",
+      "Translation": "Little grains",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Grattoni",
+      "Description": "Large granular, irregular shaped pasta",
+      "Translation": "Grains",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Margerthine",
+      "Description": "Daisy-shaped",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Merletti",
+      "Description": "Lace-shaped",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Midolline",
+      "Description": "Flat teardrop shaped pasta (similar to Orzo but wider)",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Occhi di passero",
+      "Description": "Thick rings",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Occhi di pernice",
+      "Description": "Very small rings of pasta",
+      "Translation": "Partridge's eyes",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Orzo",
+      "Description": "Rice shaped pasta. Risoni are slightly bigger.",
+      "Translation": "Barley, rice",
+      "Synonyms": "Puntine, punte d'ago, armelline, semi d'orzo, semi d'avena, semi di riso, occhi di giudeo, armellette, puntalette, semi di cicoria, cicorietta, risetto, chicchi di riso, semini, avena, avena grande, cicorie, semi di melone, semi di mela, midolline, semoni, risone, risoni riso",
+      "Origin": ""
+    },
+    {
+      "Type": "Pastina",
+      "Description": "Although pastina is the name for an entire family of miniature pasta shapes, it is also used to describe the most basic one in this family – small spheres, smaller than acini di pepe",
+      "Translation": "Little pasta",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Piombi",
+      "Description": "Spheres slightly larger than acini di pepe",
+      "Translation": "\"Leads\" as in lead shot",
+      "Synonyms": "Pearl pasta",
+      "Origin": ""
+    },
+    {
+      "Type": "Ptitim",
+      "Description": "Rice grains, spheres or other forms",
+      "Translation": "Flakes",
+      "Synonyms": "Israeli couscous, Jerusalem couscous, giant couscous, pearl couscous",
+      "Origin": "Israel"
+    },
+    {
+      "Type": "Puntine",
+      "Description": "Smaller version of Risi",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Quadrettini",
+      "Description": "Small flat squares of pasta",
+      "Translation": "Little squares",
+      "Synonyms": "Quadrucci, quadratini, quadretti, lucciole, quadrellini, quadrotti; quaternei (Emilia-Romagna); squadrucchetti (Umbria); ciciarchiola/cicerchiole (depending on size; Lazio).",
+      "Origin": ""
+    },
+    {
+      "Type": "Sorprese",
+      "Description": "Small bell shaped pasta with a ruffled edge and a crease on one side. Can be ridged or smooth (lisce)",
+      "Translation": "Surprise",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Stelle",
+      "Description": "Small star-shaped pasta.",
+      "Translation": "Stars, small or big (resp. stelline or stellette)",
+      "Synonyms": "anellini, avermarie, astri, fiori di sambuco, lentine, puntine, semini, stellettine, stellette",
+      "Origin": ""
+    },
+    {
+      "Type": "Stortini",
+      "Description": "Smaller version of elbow macaroni",
+      "Translation": "Little crooked ones",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Tripolini",
+      "Description": "In larger varieties these are sometimes called farfalle tonde. Small bow tie-shaped pasta with rounded edges.",
+      "Translation": "canestrini are small willow baskets.",
+      "Synonyms": "Signorine, canestri, canestrini, farfallini, galani, nastrini, nodini, stricchetti",
+      "Origin": ""
+    },
+    {
+      "Image": "Image",
+      "Type": "Type",
+      "Description": "Description",
+      "Translation": "Translation",
+      "Synonyms": "Synonyms",
+      "Origin": "Origin"
+    },
+    {
+      "Type": "Agnolini",
+      "Description": "Agnolini are a type of stuffed egg pasta originating from the province of Mantua (in the Mantuan dialect they are commonly called \"agnulìn\" or \"agnulì\") and are oftentimes eaten in soup or broth.'",
+      "Translation": "Diminutive of old word for \"angel\"",
+      "Synonyms": "\"agnulìn\" or \"agnulì\"",
+      "Origin": "Lombardy"
+    },
+    {
+      "Type": "Agnolotti",
+      "Description": "Semicircular or square pockets; can be stuffed with ricotta, a mix of cheese and meats (agnolotti di grasso), or pureed vegetables (agnolotti di magro).",
+      "Translation": "Diminutive of old word for \"angel\"; Agnolotti was Giotto di Bondone's nickname.",
+      "Synonyms": "agnellotti, agnolòt, angelotti, langaroli, langheroli, piat d'angelòt",
+      "Origin": "Piedmont"
+    },
+    {
+      "Type": "Caccavelle",
+      "Description": "Large bowl-like pasta intended for stuffing",
+      "Translation": "From Latin cacabus, \"pot\"",
+      "Synonyms": "Pentole (Naples)",
+      "Origin": "Naples"
+    },
+    {
+      "Type": "Cannelloni",
+      "Description": "Rolls of pasta with various fillings, usually cooked in an oven",
+      "Translation": "Derived from cana, \"reed\".",
+      "Synonyms": "Cannaciotti, canneroncini, cannarone/cannerone (Naples), cannarune (Apulia), canneroni, cannoli/ crusetti (Sicily), manfriguli/manfrigoli (Valtellina), manicotti (in the US), gnocchettoni zitoni, tagliati di zitoni, cannelloni zitoni, spole, sigarette, schiaffoni",
+      "Origin": "Central Italy"
+    },
+    {
+      "Type": "Cappelletti",
+      "Description": "Squares of dough filled with cheese (or, rarely, meat) and closed to form a small hat (cappello=hat). In the large majority of Romagna the filling is made with a mixture of parmesan and soft cheese.",
+      "Translation": "Little caps or hats",
+      "Synonyms": "cappelli, cappelli del prete, or nicci in Tuscany.",
+      "Origin": "Emilia-Romagna"
+    },
+    {
+      "Type": "Caramelle",
+      "Description": "A stuffed pasta resembling double twist candies.",
+      "Translation": "Candy",
+      "Synonyms": "",
+      "Origin": "Parma and Piacenza"
+    },
+    {
+      "Type": "Casoncelli",
+      "Description": "A stuffed pasta with various fillings.",
+      "Translation": "Possibly from casa, \"house\"",
+      "Synonyms": "Casonsei, Casonziei, Ciaroncie",
+      "Origin": "Lombardy"
+    },
+    {
+      "Type": "Casunziei",
+      "Description": "A stuffed pasta with various fillings",
+      "Translation": "From casa, \"house\"",
+      "Synonyms": "",
+      "Origin": "Veneto"
+    },
+    {
+      "Type": "Conchiglioni",
+      "Description": "Large, stuffable seashell shaped",
+      "Translation": "Large shells",
+      "Synonyms": "",
+      "Origin": "Campania"
+    },
+    {
+      "Type": "Culurgiones",
+      "Description": "A stuffed pasta typical with a filling of potato and mint",
+      "Translation": "",
+      "Synonyms": "Culingionis, Culurzones, Kulurjones, angiolottus, spighitti",
+      "Origin": "Sardinia (particularly the South-Eastern Ogliastra region)"
+    },
+    {
+      "Type": "Fagottini",
+      "Description": "A 'purse' or bundle of pasta, made from a round of dough gathered into a ball-shaped bundle, often stuffed with ricotta and fresh pear",
+      "Translation": "Little cloth bundles",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Lumache",
+      "Description": "Snailshell-shaped pieces. Larger than gomiti or pipe.",
+      "Translation": "Snails",
+      "Synonyms": "Lumachelle, lumachette, cirillini, chifferini, ciocchiolette, cirillini, gomitini, gozziti, lumachelle, lumachoni, pipe, pipette, tofarelle",
+      "Origin": ""
+    },
+    {
+      "Type": "Mezzelune",
+      "Description": "Semicircular pockets about 2.5 in. diameter",
+      "Translation": "Half-moons",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Occhi di lupo",
+      "Description": "Large, stuffed, penne-shaped pasta. Around 1.5 inches long.",
+      "Translation": "Ribbed wolf eyes",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Pansotti",
+      "Description": "Triangular shape with a bulging center, does not contain meat.",
+      "Translation": "Big bellies",
+      "Synonyms": "Ravioli di magro.",
+      "Origin": "Liguria"
+    },
+    {
+      "Type": "Ravioli",
+      "Description": "Two pieces of pasta on top of another, stuffed with cheese, ground meat, pureed vegetables, or mixtures thereof. Though commonly square, other forms are also used, including circular and semi-circular (Mezzelune)",
+      "Translation": "Many claimed origins: possibly from rapa, \"vegetable root\", or rabibole, \"cheap stuff\" in Ligurian dialect; or simply from ravolgere, \"to wrap\".",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Rotolo ripieno",
+      "Description": "A rolled pasta with filling; cooked roll is normally sliced, covered in sauce and broiled in the oven",
+      "Translation": "\"Stuffed roll\"",
+      "Synonyms": "Rotoli imbotito; strudel (Trentino-Alto Adige); pasta al sacco (Marche)",
+      "Origin": ""
+    },
+    {
+      "Type": "Sacchettoni",
+      "Description": "Round, similar to fagottini, but also may use ravioli stuffing. A small square of pasta brought around the stuffing and twisted.",
+      "Translation": "Little sacks",
+      "Synonyms": "Sacchetti, sacchetini depending on size",
+      "Origin": ""
+    },
+    {
+      "Type": "Tortelli",
+      "Description": "Square sheet of pasta folded into a triangle or discus folded into half-circle, with both extremities subsequently joined to form a ring shape. About 30x35 mm in size. Sweet variations can be found (tortelli cremaschi).",
+      "Translation": "Little pies",
+      "Synonyms": "Cappellacci, turtello (Emilia-Romagna), tordelli (Tuscany), casonsei (Bergame and Brescia)",
+      "Origin": ""
+    },
+    {
+      "Type": "Tortellini",
+      "Description": "Ring-shaped, usually stuffed with a mixture of meat and cheese. About 25x20mm in size.",
+      "Translation": "Small tortelli",
+      "Synonyms": "Agnoli, presuner or prigioneri (Capri)",
+      "Origin": ""
+    },
+    {
+      "Type": "Tortelloni",
+      "Description": "Round or rectangular, similar to tortelli but larger (38x45mm). Stuffing usually does not include meat.",
+      "Translation": "",
+      "Synonyms": "",
+      "Origin": ""
+    },
+    {
+      "Type": "Tufoli",
+      "Description": "A pasta shell large enough for stuffing (as with meat or cheese). From a southern Italian dialect, plural of tufolo (tube), modification of Latin tubulus (tubule)",
+      "Translation": "Large tube",
+      "Synonyms": "Maniche, Gigantoni, Occhi di elefante, Elefante, Canneroni grandi, Occhi di bove",
+      "Origin": ""
+    },
+    {
+      "Image": "Image",
+      "Type": "Type",
+      "Description": "Description",
+      "Translation": "Translation",
+      "Synonyms": "Synonyms",
+      "Origin": "Origin"
+    },
+    {
+      "Type": "Canederli",
+      "Description": "Small balls of dough. Usually made of bread crumbs, but sweet variants would have a potato base.",
+      "Translation": "From the German Knödel",
+      "Synonyms": "Gnocchi di pane, canedeli, knödel",
+      "Origin": "Trentino-Alto Adige"
+    },
+    {
+      "Type": "Donderet",
+      "Description": "Elongated, narrow dumpling",
+      "Translation": "",
+      "Synonyms": "Dandolarini, strangolapreti piemontesi",
+      "Origin": "Piedmont, more particularly Cuneo province and Valle Colla."
+    },
+    {
+      "Type": "Gnocchi",
+      "Description": "various thick, small, and soft dough dumplings",
+      "Translation": "May be derived from the Italian word nocchio, meaning a knot in wood, or from nocca, meaning knuckle",
+      "Synonyms": "Gnocchetti, gnocchi alla romana, gnudi, malfatti, strangulaprievete, cavatelli, malloreddus",
+      "Origin": "various"
+    }
+  ]
+}
