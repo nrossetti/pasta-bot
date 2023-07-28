@@ -1,6 +1,2 @@
-config.ini
-sftp.py
-pasta.html
-mydatabase.db
-
+__pycache__
 /images/*
