@@ -17,4 +17,4 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Set the entrypoint command to run the Flask application
-CMD ["python", "app.py"]
+CMD ["python", "bot.py"]
