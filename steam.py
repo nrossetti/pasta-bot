@@ -1,17 +1,13 @@
 import requests
-import configparser
+import os
 
-
-CONFIG_PATH = 'config.ini'  
-CONFIG = configparser.RawConfigParser()
-CONFIG.read(CONFIG_PATH)
-
-API_KEY = str(CONFIG.get('steam', 'STEAM_API_KEY'))
-ADDRESS = str(CONFIG.get('steam', 'SERVER_IP'))
-PORT = str(CONFIG.get('steam', 'SERVER_PORT'))
+API_KEY = os.getenv('STEAM_API_KEY')
+ADDRESS = os.getenv('SERVER_IP')
+PORT = os.getenv('SERVER_PORT')
 APP_ID = 730  #csgo
 
 def server_update():
+
     # Construct the URL to retrieve server information for the specified App ID
     url = f"https://api.steampowered.com/ISteamApps/GetServersAtAddress/v1/?addr={ADDRESS}:{PORT}&format=json&appid={APP_ID}&key={API_KEY}"
 

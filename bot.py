@@ -1,21 +1,16 @@
 import discord
 from discord import app_commands
-import configparser
 import random
 from pasta import *
 from steam import *
+import os
 import os.path
 from discord.ext import tasks
 import datetime
 import sqlite3
 
-# get secrets from config.ini
-CONFIG_PATH = 'config.ini'  
-CONFIG = configparser.RawConfigParser()
-CONFIG.read(CONFIG_PATH)
-DISCORD_TOKEN = CONFIG.get('discord', 'DISCORD_TOKEN')
-GUILD_ID = CONFIG.get('discord', 'GUILD_ID')
-
+DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
+GUILD_ID = os.getenv('GUILD_ID')
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
